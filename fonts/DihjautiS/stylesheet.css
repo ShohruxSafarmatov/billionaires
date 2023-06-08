@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'Dihjauti';
+    src: url('Dihjauti-Regular.eot');
+    src: local('Dihjauti Regular'), local('Dihjauti-Regular'),
+        url('Dihjauti-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Dihjauti-Regular.woff2') format('woff2'),
+        url('Dihjauti-Regular.woff') format('woff'),
+        url('Dihjauti-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dihjauti';
+    src: url('Dihjauti-Bold.eot');
+    src: local('Dihjauti Bold'), local('Dihjauti-Bold'),
+        url('Dihjauti-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Dihjauti-Bold.woff2') format('woff2'),
+        url('Dihjauti-Bold.woff') format('woff'),
+        url('Dihjauti-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dihjauti';
+    src: url('Dihjauti-BoldItalic.eot');
+    src: local('Dihjauti Bold Italic'), local('Dihjauti-BoldItalic'),
+        url('Dihjauti-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('Dihjauti-BoldItalic.woff2') format('woff2'),
+        url('Dihjauti-BoldItalic.woff') format('woff'),
+        url('Dihjauti-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dihjauti';
+    src: url('Dihjauti-Italic.eot');
+    src: local('Dihjauti Italic'), local('Dihjauti-Italic'),
+        url('Dihjauti-Italic.eot?#iefix') format('embedded-opentype'),
+        url('Dihjauti-Italic.woff2') format('woff2'),
+        url('Dihjauti-Italic.woff') format('woff'),
+        url('Dihjauti-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dihjauti S';
+    src: url('DihjautiS-Bold.eot');
+    src: local('Dihjauti S Bold'), local('DihjautiS-Bold'),
+        url('DihjautiS-Bold.eot?#iefix') format('embedded-opentype'),
+        url('DihjautiS-Bold.woff2') format('woff2'),
+        url('DihjautiS-Bold.woff') format('woff'),
+        url('DihjautiS-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dihjauti S';
+    src: url('DihjautiS-Regular.eot');
+    src: local('Dihjauti S Regular'), local('DihjautiS-Regular'),
+        url('DihjautiS-Regular.eot?#iefix') format('embedded-opentype'),
+        url('DihjautiS-Regular.woff2') format('woff2'),
+        url('DihjautiS-Regular.woff') format('woff'),
+        url('DihjautiS-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dihjauti S';
+    src: url('DihjautiS-Italic.eot');
+    src: local('Dihjauti S Italic'), local('DihjautiS-Italic'),
+        url('DihjautiS-Italic.eot?#iefix') format('embedded-opentype'),
+        url('DihjautiS-Italic.woff2') format('woff2'),
+        url('DihjautiS-Italic.woff') format('woff'),
+        url('DihjautiS-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Dihjauti S';
+    src: url('DihjautiS-BoldItalic.eot');
+    src: local('Dihjauti S Bold Italic'), local('DihjautiS-BoldItalic'),
+        url('DihjautiS-BoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('DihjautiS-BoldItalic.woff2') format('woff2'),
+        url('DihjautiS-BoldItalic.woff') format('woff'),
+        url('DihjautiS-BoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
